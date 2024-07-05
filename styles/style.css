@@ -1,0 +1,14 @@
+nav > ul > li{
+    display: inline;
+    margin-right: 30px;
+    font-size: 20px;
+}
+ul > li > a{
+    text-decoration: none;
+}
+
+footer{
+    margin-top: 20px;
+    text-align: center;
+
+}
